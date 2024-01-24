@@ -1,0 +1,11 @@
+Eleccion de carrera
+*Administracion de empresas 
+*ingenieria en gestion empresarial 
+
+--
+Universidades que lo ofrecen en Zacatecas
+**TecNM- Administracion de empresas
+**UNID- Administracion de empresas
+**TecNM- Ingenieria en gestion empresarial 
+
+--Entrar a cada universidad y buscar programa de estudios
