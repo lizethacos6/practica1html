@@ -84,12 +84,11 @@ p {
 }
 
 .container_button {
-
     display: flex;
     justify-content: center;
 }
 
-.button {
+.btncrear{
     width: 150px;
     color: rgb(255, 255, 255);
     font-size: 16px;
@@ -99,14 +98,14 @@ p {
     cursor: pointer;
 }
 
-.btninit {
-    background-color: #607def;
+.btncrear {
+    background-color: #ffffff;
     border: none;
     margin: 25px 0;
 }
 
 .button:hover {
-    box-shadow: 0 0 10px #6b6c6d;
+    box-shadow: 0 0 10px #ffffff;
 }
 
 .titulo_iniciar {
