@@ -187,5 +187,33 @@ div.divisioncita2{
 	border:12px groove rgb(22, 150, 189);
 	padding: 50px 30px 50px 80px;
 	margin: 25px 50px 75px 100px;
+}
+.div{
+	margin: 6rem 12rem;
+	height: 20rem;
+	width: 36rem;
+	background-size: 100% 100%;
+	box-shadow: 20px 20px 10px grey;
+	animation: slider 10s linear infinity;
+}
+.container{
+	width: 50%;
+	height: 200px;
+	display: flex;
+	gap: 5px;
 
+}
+
+.container img{
+	width: 10%;
+	height: 100%;
+	object-fit: cover;
+	border-radius: 10px;
+	border: 2px  solid white;
+	cursor: pointer;
+
+}
+
+.container img:hover{
+	width: 100%;
 }
